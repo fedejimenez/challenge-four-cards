@@ -29,7 +29,7 @@ header h1 {
   margin: 0;
 }
 header p:last-child {
-  margin: 0.5rem 1rem;
+  margin: 0 1rem;
   color: #bbbbbb;
   padding: 1rem 3rem;
 }
@@ -42,7 +42,7 @@ header p:last-child {
 }
 
 .card-container-center .card {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .card {
