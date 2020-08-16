@@ -31,6 +31,7 @@ header h1 {
 header p:last-child {
   margin: 1rem;
   color: #bbbbbb;
+  padding: 1rem 3rem;
 }
 
 /* CARDS */
