@@ -97,7 +97,7 @@ header p:last-child {
   }
 
   header {
-    min-width: 350px;
+    min-width: 325px;
     max-width: 30%;
   }
 
@@ -113,6 +113,8 @@ header p:last-child {
 
   .card-container {
     flex-direction: column;
+    padding: 1rem 2rem;
+    padding-top: 0;
   }
 
   .card,
